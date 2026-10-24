@@ -28,3 +28,5 @@ dialog{border:0;padding:0}dialog::backdrop{background:#0009;backdrop-filter:blur
 @media(max-width:680px){.hero .hero-art{min-height:440px}.hero-intro{padding-top:54px;padding-bottom:60px}.hero-intro h1{font-size:clamp(56px,11.5vw,76px)}}
 
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}.js-ready .reveal{opacity:1;transform:none}}
+@font-face{font-family:"Cabin";src:url("assets/cabin-variable.ttf") format("truetype");font-style:normal;font-weight:400 700;font-display:swap}
+body{font-family:"Cabin","Arial Narrow",Arial,sans-serif}

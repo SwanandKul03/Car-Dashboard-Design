@@ -24,12 +24,12 @@ Alternatively, select **Start website** in **Run and Debug** and press **F5**. I
 | `dist/index.html` | Page structure, headings, case-study narrative and research evidence |
 | `dist/styles.css` | Typography, layout, responsive rules, transitions and colours |
 | `dist/app.js` | History timeline, dashboard tabs, films, comparison slider and image enlargement |
-| `dist/assets/` | Images and videos used by the website |
+| `dist/assets/` | Images, videos and the Cabin typeface used by the website |
 | `tools/serve.mjs` | Local server, including byte-range support for video seeking |
 | `.vscode/launch.json` | VS Code launch configuration |
 | `scripts/render-opening-drive.py` | Optional script for rebuilding the composited opening film |
 
-The latest state includes the full-viewport opening film, the **Automotive car dashboard** title after it, the supplied Pre-drive and Driving artwork, and 16px button corners. There is no opening Explore button. The Porsche Next font files are not included in this public repository; the site uses system fonts instead.
+The latest state includes the full-viewport opening film, the **Automotive car dashboard** title after it, the supplied Pre-drive and Driving artwork, and 16px button corners. There is no opening Explore button. Typography uses the openly licensed Cabin variable font; its SIL Open Font License is included in `dist/assets/Cabin-OFL.txt`.
 
 To change button corners, edit `--button-radius` in `dist/styles.css`. To replace the opening film, update `assets/opening-drive.mp4` and its poster, keeping the paths in `dist/index.html` in sync.
 

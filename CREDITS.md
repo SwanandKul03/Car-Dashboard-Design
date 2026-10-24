@@ -29,4 +29,4 @@ Used and edited as illustrative road context within the opening film.
 
 ## Typography
 
-The original local design used Porsche Next regular and semibold. Those font files are not included in this public repository; the published site uses system fonts. The typeface remains the property of its respective rights holders. The case-study project is independent of Porsche.
+The original local design used Porsche Next regular and semibold. Those font files are not included in this public repository. The site uses Cabin, by The Cabin Project Authors, distributed under the SIL Open Font License 1.1. The license is included at `dist/assets/Cabin-OFL.txt`.
