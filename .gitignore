@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+/dist/assets/porsche-next-regular.woff2
+/dist/assets/porsche-next-semibold.woff2

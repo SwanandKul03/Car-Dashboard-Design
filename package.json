@@ -1,0 +1,15 @@
+{
+  "name": "automotive-car-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Automotive dashboard UX case study",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "dev": "node tools/serve.mjs",
+    "check": "node --check dist/app.js && node --check tools/serve.mjs"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "source": "Supplied master's report",
+  "historicalReference": "Stephanidis, C. and Salvendy, G. (2024), Human-Computer Interaction in Various Application Domains, chapter 15, p. 422. Referenced by the report; https://books.google.co.uk/books?id=X6AUEQAAQBAJ",
+  "note": "Period labels follow the report's historical grouping. Historical drawings retain the compressed PDF's native resolution. Paper prototypes are full-resolution copies from the existing source images.",
+  "stages": [
+    {
+      "id": "origins",
+      "period": "Before the automobile",
+      "title": "A shield before a screen.",
+      "description": "The historical review traces the dashboard to the protective board of a horse-drawn carriage, before it became a surface for driving information.",
+      "file": "carriage.webp",
+      "width": 451,
+      "height": 246,
+      "pdfPage": 26,
+      "figure": 1
+    },
+    {
+      "id": "instruments",
+      "period": "1950s–1980s",
+      "title": "The instrument panel.",
+      "description": "The research drawing groups speed, engine and fuel information with physical controls, establishing the familiar core of the dashboard.",
+      "file": "instrument-panel.webp",
+      "width": 451,
+      "height": 339,
+      "pdfPage": 27,
+      "figure": 2
+    },
+    {
+      "id": "signals",
+      "period": "1980s–early 2000s",
+      "title": "More signals. More to interpret.",
+      "description": "The historical survey follows the growth of warning symbols and indicators around the primary gauges.",
+      "file": "dashboard.webp",
+      "width": 451,
+      "height": 339,
+      "pdfPage": 28,
+      "figure": 3
+    },
+    {
+      "id": "electronic",
+      "period": "2000s–mid-2010s",
+      "title": "The electronic cluster.",
+      "description": "The review examines the move towards electronic instrument clusters and the increasing role of digital information.",
+      "file": "electronic-cluster.webp",
+      "width": 451,
+      "height": 339,
+      "pdfPage": 29,
+      "figure": 4
+    },
+    {
+      "id": "prototype",
+      "period": "This project",
+      "title": "A framework for clarity.",
+      "description": "The historical review and preliminary research informed paper prototypes that separate navigation, critical driving information and vehicle status.",
+      "file": "paper-prototype-layout.webp",
+      "width": 3797,
+      "height": 2689,
+      "pdfPage": 37,
+      "figure": 8
+    }
+  ],
+  "paperDetail": {
+    "file": "paper-prototype-details.webp",
+    "width": 3651,
+    "height": 2643,
+    "pdfPage": 38,
+    "figure": 9
+  }
+}
