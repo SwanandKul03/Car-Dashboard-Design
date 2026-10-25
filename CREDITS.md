@@ -29,4 +29,12 @@ Used and edited as illustrative road context within the opening film.
 
 ## Typography
 
-The original local design used Porsche Next regular and semibold. Those font files are not included in this public repository. The site uses Cabin, by The Cabin Project Authors, distributed under the SIL Open Font License 1.1. The license is included at `dist/assets/Cabin-OFL.txt`.
+Clash Display by Indian Type Foundry, obtained from the official Fontshare distribution. Weights 400, 500, 600 and 700 are included unchanged as WOFF2 files.
+
+Copyright 2021 Indian Type Foundry. All rights reserved.
+
+Official font page: https://www.fontshare.com/fonts/clash-display
+
+ITF Free Font Licence: https://www.fontshare.com/licenses/itf-ffl
+
+The font's original embedded notice and source/licence links are preserved in dist/assets/clash-display-notice.txt.
